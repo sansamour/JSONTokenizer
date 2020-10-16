@@ -228,3 +228,8 @@ array(3) {
 Detail
 ------
 [PHP: Class JSON Tokenizer](http://tutorialspots.com/php-class-json-tokenizer-6393.html)
+
+
+License
+------
+[MIT LICENSE](/LICENSE)
